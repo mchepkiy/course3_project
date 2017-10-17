@@ -53,5 +53,6 @@ run_analysis <- function(){
     data_full <- data_full[, grepl(
         "mean\\(\\)|std\\(\\)|ActivityID|ActivityName|SubjectID", 
         names(tmp2))]
+    data_full
 }
     
