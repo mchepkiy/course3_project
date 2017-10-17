@@ -21,11 +21,17 @@ and pun into the project's working directory. It's assumed that the paths are un
 
 ## Description of the variables in the output file (data_full)
 ActivityName - character, name of the activity from "activity_labels" file
+
 ActivityID - numeric, ID of the activity from "test" and "train" datasets
+
 SubjectID - numeric, ID of the subject from "test" and "train" datasets
+
 tBodyAcc-mean()-X - numeric, data taken unchanged from initial dataset
+
 tBodyAcc-mean()-Y - numeric, data taken unchanged from initial dataset
+
 tBodyAcc-mean()-Z - numeric, data taken unchanged from initial dataset
+
 tBodyAcc-std()-X - numeric, data taken unchanged from initial dataset
 tBodyAcc-std()-Y - numeric, data taken unchanged from initial dataset
 tBodyAcc-std()-Z - numeric, data taken unchanged from initial dataset
