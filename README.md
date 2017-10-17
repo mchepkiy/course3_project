@@ -1,25 +1,25 @@
-# Coursera Course 3 project
+# Coursera Course 3 project - Codebook
 ## Project Description
 Coursera Getting and Cleaning Data Course Project
 
-##Study design and data processing
+## Study design and data processing
 
-###Collection of the raw data
+### Collection of the raw data
 The dataset was unpacked from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 and pun into the project's working directory. It's assumed that the paths are unchaged from the original dataset. Relative paths are stored in run_analysis.R
 
-##Creating the tidy datafile
+## Creating the tidy datafile
 
-###Guide to create the tidy data file
+### Guide to create the tidy data file
 1. Two datasets, "train" and "test" are merged into a single dataframe with rbind()
 2. Subject ID and Activity ID are added with cbind()
 
-###Cleaning of the data
+### Cleaning of the data
 1. Column names are set from "features" file with names(), ActivityID and SubjectID are added with string vector
 2. Activity name is matched from "activity_labels" file
 3. Only the first three columns (filtered by name) or the columns with "mean()" and "std()" in their names are left in the dataset
 
-##Description of the variables in the output file (data_full)
+## Description of the variables in the output file (data_full)
 ActivityName - character, name of the activity from "activity_labels" file
 ActivityID - numeric, ID of the activity from "test" and "train" datasets
 SubjectID - numeric, ID of the subject from "test" and "train" datasets
