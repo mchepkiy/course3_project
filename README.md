@@ -1,13 +1,4 @@
 # Coursera Course 3 project
----
-title: "Codebook"
-author: "Mikhail Chepkiy"
-date: "October 16, 2017"
-output:
-  html_document:
-    keep_md: yes
----
-
 ## Project Description
 Coursera Getting and Cleaning Data Course Project
 
