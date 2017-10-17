@@ -19,6 +19,9 @@ and pun into the project's working directory. It's assumed that the paths are un
 2. Activity name is matched from "activity_labels" file
 3. Only the first three columns (filtered by name) or the columns with "mean()" and "std()" in their names are left in the dataset
 
+The data is then written to the "data_out.txt" with 
+write.table(data_full, file = "./data_out.txt", row.name = FALSE)
+
 ## Description of the variables in the output file (data_full)
 ActivityName - character, name of the activity from "activity_labels" file
 
