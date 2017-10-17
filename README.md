@@ -33,65 +33,127 @@ tBodyAcc-mean()-Y - numeric, data taken unchanged from initial dataset
 tBodyAcc-mean()-Z - numeric, data taken unchanged from initial dataset
 
 tBodyAcc-std()-X - numeric, data taken unchanged from initial dataset
+
 tBodyAcc-std()-Y - numeric, data taken unchanged from initial dataset
+
 tBodyAcc-std()-Z - numeric, data taken unchanged from initial dataset
+
 tGravityAcc-mean()-X - numeric, data taken unchanged from initial dataset
+
 tGravityAcc-mean()-Y - numeric, data taken unchanged from initial dataset
+
 tGravityAcc-mean()-Z - numeric, data taken unchanged from initial dataset
+
 tGravityAcc-std()-X - numeric, data taken unchanged from initial dataset
+
 tGravityAcc-std()-Y - numeric, data taken unchanged from initial dataset
+
 tGravityAcc-std()-Z - numeric, data taken unchanged from initial dataset
+
 tBodyAccJerk-mean()-X - numeric, data taken unchanged from initial dataset
+
 tBodyAccJerk-mean()-Y - numeric, data taken unchanged from initial dataset
+
 tBodyAccJerk-mean()-Z - numeric, data taken unchanged from initial dataset
+
 tBodyAccJerk-std()-X - numeric, data taken unchanged from initial dataset
+
 tBodyAccJerk-std()-Y - numeric, data taken unchanged from initial dataset
+
 tBodyAccJerk-std()-Z - numeric, data taken unchanged from initial dataset
+
 tBodyGyro-mean()-X - numeric, data taken unchanged from initial dataset
+
 tBodyGyro-mean()-Y - numeric, data taken unchanged from initial dataset
+
 tBodyGyro-mean()-Z - numeric, data taken unchanged from initial dataset
+
 tBodyGyro-std()-X - numeric, data taken unchanged from initial dataset
+
 tBodyGyro-std()-Y - numeric, data taken unchanged from initial dataset
+
 tBodyGyro-std()-Z - numeric, data taken unchanged from initial dataset
+
 tBodyGyroJerk-mean()-X - numeric, data taken unchanged from initial dataset
+
 tBodyGyroJerk-mean()-Y - numeric, data taken unchanged from initial dataset
+
 tBodyGyroJerk-mean()-Z - numeric, data taken unchanged from initial dataset
+
 tBodyGyroJerk-std()-X - numeric, data taken unchanged from initial dataset
+
 tBodyGyroJerk-std()-Y - numeric, data taken unchanged from initial dataset
+
 tBodyGyroJerk-std()-Z - numeric, data taken unchanged from initial dataset
+
 tBodyAccMag-mean() - numeric, data taken unchanged from initial dataset
+
 tBodyAccMag-std() - numeric, data taken unchanged from initial dataset
+
 tGravityAccMag-mean() - numeric, data taken unchanged from initial dataset
+
 tGravityAccMag-std() - numeric, data taken unchanged from initial dataset
+
 tBodyAccJerkMag-mean() - numeric, data taken unchanged from initial dataset
+
 tBodyAccJerkMag-std() - numeric, data taken unchanged from initial dataset
+
 tBodyGyroMag-mean() - numeric, data taken unchanged from initial dataset
+
 tBodyGyroMag-std() - numeric, data taken unchanged from initial dataset
+
 tBodyGyroJerkMag-mean() - numeric, data taken unchanged from initial dataset
+
 tBodyGyroJerkMag-std() - numeric, data taken unchanged from initial dataset
+
 fBodyAcc-mean()-X - numeric, data taken unchanged from initial dataset
+
 fBodyAcc-mean()-Y - numeric, data taken unchanged from initial dataset
+
 fBodyAcc-mean()-Z - numeric, data taken unchanged from initial dataset
+
 fBodyAcc-std()-X - numeric, data taken unchanged from initial dataset
+
 fBodyAcc-std()-Y - numeric, data taken unchanged from initial dataset
+
 fBodyAcc-std()-Z - numeric, data taken unchanged from initial dataset
+
 fBodyAccJerk-mean()-X - numeric, data taken unchanged from initial dataset
+
 fBodyAccJerk-mean()-Y - numeric, data taken unchanged from initial dataset
+
 fBodyAccJerk-mean()-Z - numeric, data taken unchanged from initial dataset
+
 fBodyAccJerk-std()-X - numeric, data taken unchanged from initial dataset
+
 fBodyAccJerk-std()-Y - numeric, data taken unchanged from initial dataset
+
 fBodyAccJerk-std()-Z - numeric, data taken unchanged from initial dataset
+
 fBodyGyro-mean()-X - numeric, data taken unchanged from initial dataset
+
 fBodyGyro-mean()-Y - numeric, data taken unchanged from initial dataset
+
 fBodyGyro-mean()-Z - numeric, data taken unchanged from initial dataset
+
 fBodyGyro-std()-X - numeric, data taken unchanged from initial dataset
+
 fBodyGyro-std()-Y - numeric, data taken unchanged from initial dataset
+
 fBodyGyro-std()-Z - numeric, data taken unchanged from initial dataset
+
 fBodyAccMag-mean() - numeric, data taken unchanged from initial dataset
+
 fBodyAccMag-std() - numeric, data taken unchanged from initial dataset
+
 fBodyBodyAccJerkMag-mean() - numeric, data taken unchanged from initial dataset
+
 fBodyBodyAccJerkMag-std() - numeric, data taken unchanged from initial dataset
+
 fBodyBodyGyroMag-mean() - numeric, data taken unchanged from initial dataset
+
 fBodyBodyGyroMag-std() - numeric, data taken unchanged from initial dataset
+
 fBodyBodyGyroJerkMag-mean() - numeric, data taken unchanged from initial dataset
+
 fBodyBodyGyroJerkMag-std() - numeric, data taken unchanged from initial dataset
